@@ -24,4 +24,5 @@ for (var j = dividedBy; j > 1; j--) {
     } 
 }
 */
+
 alert (listOfPrimes);
