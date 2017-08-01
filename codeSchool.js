@@ -26,4 +26,5 @@ function dontPanic(location) {
   alert(list);
 }
 
+
 dontPanic(lighthouseRock);
