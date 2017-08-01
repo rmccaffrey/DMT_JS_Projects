@@ -22,6 +22,7 @@ document.write (dayOfWeek[3][1]  + "<br>");
 
 //result: changing a value in the embedded array changes the value for each instance of the embedded array
 
+
 /*test of using objects to build a room scheduler. Possible objects and 
 properties include ROOM{number, capacity, classAssigned}, TEACHER{prepped
 classes, load, availability}, CLASS{cap, duration, #preReqs, track, timeOfDay}.
