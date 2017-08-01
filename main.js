@@ -28,4 +28,4 @@ classes, load, availability}, CLASS{cap, duration, #preReqs, track, timeOfDay}.
 Possible code might include:
 if room.classAssigned is true, check class.duration to see next free time
 if class.timeOfDay is "evening", check teacher.availability
-if class.cop is > room.capacity, change class.cap to = room.capacity*/
+if class.cap is > room.capacity, change class.cap to = room.capacity*/
